@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @catalincatrina and @webdevaddict
-- 👀 I’m interested in web development, Linux, and computer networking.
-- 🌱 I’m currently learning the Angular / ASP.NET stack.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @catalincatrina and @catalin-catrina
+- 👀 I’m interested in web development, mainly front-end
+- 🌱 I’m currently learning the Angular / ASP.NET stack
+
 
 <!---
 catalincatrina/catalincatrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
