@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @catalincatrina and @catalin-catrina
-- 👀 I’m interested in web development, mainly front-end
-- 🌱 I’m currently learning the Angular / ASP.NET stack
 
 
 <!---
